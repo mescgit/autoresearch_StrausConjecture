@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python evaluate.py 2>&1)",
+      "Bash(python search.py 2>&1)",
+      "Bash(python profile_shortcuts.py 2>&1)",
+      "Bash(python profile_k.py 2>&1)"
+    ]
+  }
+}
